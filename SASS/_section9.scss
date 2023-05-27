@@ -1,0 +1,55 @@
+.section-9{
+    width: 100%;
+    height: 250px;
+    // background-color: white;
+    background-image: url('images/PatternLight.png');
+
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+    nav{
+        width: 60%;
+        height: 40px;
+        display: flex;
+justify-content: center;
+align-items: center;
+
+button{
+    color: #22C55E;
+    border: none;
+    border-radius: 12px;
+    background-color: #DCFCE7;
+}
+
+    }
+
+    .D1{
+        width: 60%;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        h1{
+            color: #393a39;
+font-size: 44px;
+font-weight: 600;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;     
+   }
+    }
+
+    .D2{
+        width: 70%;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+ 
+    }
+p{
+    color: #595a59;
+    font-size: 22px;
+}
+
+}
